@@ -1,1 +1,15 @@
 Predicting the loan sanction on the basis of some dependencies
+Sample Example is mentioned below:
+
+No. of Dependencies: 3
+Enter you credit Score: 1 (1-> have credit history / 0-> no credit history)
+Enter the Income of Applicant: 5000
+Enter the Income of Co-applicant: 1000
+Enter the amount of Loan: 10000
+Enter the duration of loan: 6 (term in years)
+Enter 1 if Graduate else 0: 0
+Enter 1 if you are self-employed else 0: 1
+Enter 1 if you live in rural area else 0: 1
+Enter 1 if you live in semi-urban area else 0: 0
+Enter 1 if you live in urban area else 0: 0
+Loan cannot be sanctioned
